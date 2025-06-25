@@ -36,4 +36,8 @@ In essence, this notebook serves as a self-contained, practical example of imple
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/6ccd4e36-86c4-4b05-baa2-0c5d77aaa0f5)
+
+![Image](https://github.com/user-attachments/assets/27c5b4de-03b1-4454-9af8-6805e9117cbb)
+
 
